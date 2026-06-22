@@ -5,7 +5,7 @@ escalations and client management — with a strong focus on UI/UX.
 
 🔗 **[Live demo](https://valentinopais.github.io/simax-demo/)**
 
-![Simax demo](./preview.gif)
+https://github.com/user-attachments/assets/4e878da3-c1de-487c-b7b3-7454716ada93
 
 ## What it solves
 Companies handling internal incidents need one place to **create, assign, escalate and
